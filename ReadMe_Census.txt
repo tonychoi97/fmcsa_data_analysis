@@ -12,6 +12,8 @@ CARRIER_OPERATION 	- Codes identifying carriers' type of Operation; A = Intersta
 HM_FLAG 		- Carrier is subject to placardable HM threshold ( Y = Yes, N = No)
 PC_FLAG                 - Carrier is subject to passengercarrier Threshold (Y = Yes, N = No)
 
+FMCSA State Abbreviations Code: https://ask.fmcsa.dot.gov/euf/assets/mcmiscatalog/states.html
+
 PHY_STREET		- Physical street address of a carrier
 PHY_CITY		- Physical city of a carrier 
 PHY_STATE		- Physical state of a carrier
